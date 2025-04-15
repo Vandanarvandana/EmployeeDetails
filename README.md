@@ -19,7 +19,3 @@ A backend solution built using Java and JDBC for managing employee data.
 1. Clone the repository.
 2. Build the project using Maven or your preferred IDE.
 3. Run the application.
-
-## License
-
-This project is licensed under the MIT License.
